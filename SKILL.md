@@ -1,7 +1,6 @@
 ---
 name: course-builder
 description: Build a source-grounded, multi-session learning course as a navigable local HTML site for one person on one topic — mission-driven lesson authoring, randomized practice generators, a mandatory Feynman explain-back gate, and a structured design-review pass before calling a module done. Use when someone wants to learn a subject over many sessions and have durable, revisitable course material, not a one-off answer.
-disable-model-invocation: true
 argument-hint: "Who is this course for, and what subject?"
 ---
 
